@@ -1,0 +1,1 @@
+wfuzz -c -z file,big.txt http://shibes.xyz/api.php?breed=FUZZ
